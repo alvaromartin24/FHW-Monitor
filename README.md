@@ -56,6 +56,6 @@ Los periféricos son piezas clave para que el núcleo del ordenador (CPU y RAM) 
 Este proyecto se distribuye bajo la licencia **MIT**.
 
 ## Autores
-* **Realizado por:** [PON AQUÍ TU NOMBRE]
-* **Curso:** 1º Sistemas Informáticos / DAW
+* **Realizado por:** Álvaro Martín Ribera
+* **Curso:** 1º ASIR
 * **Centro:** IES Rodrigo Caro
