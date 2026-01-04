@@ -29,9 +29,7 @@ Según la clasificación de periféricos, el monitor se divide en:
 1.  **Periférico de Salida:** El monitor convencional (LED, LCD, OLED) que solo extrae información.
 2.  **Periférico de Entrada/Salida (E/S):** Los **monitors táctiles**, que permiten tanto visualizar información como introducir datos.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Monitor-1275363.jpg/640px-Monitor-1275363.jpg" width="400" alt="Monitor Moderno">
-</p>
+<img width="269" height="187" alt="imagen" src="https://github.com/user-attachments/assets/edad17a5-76ed-40d6-a49f-98083b74d4a5" />
 
 ---
 
